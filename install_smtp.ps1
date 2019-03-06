@@ -1,0 +1,2 @@
+add-WindowsFeature "smtp-server"
+ 
